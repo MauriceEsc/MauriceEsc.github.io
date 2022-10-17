@@ -1,9 +1,0 @@
-.list {
-  line-height: 2;
-}
-li:nth-child(even) {
-  background-color: rgb(61, 163, 247);
-}
-body {
-  background-color: rgb(221, 211, 211);
-}
